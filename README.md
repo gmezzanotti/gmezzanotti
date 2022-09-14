@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Oiii eu sou a Giullia Mezzanotti, Engenheira de Segurança da Informação!
 <div align="center">
   <a href="https://github.com/gmezzanotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmezzanotti&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmezzanotti&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmezzanotti&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmezzanotti&layout=compact&theme=dracula"/>
 </div>
 <!--
 <div style="display: inline_block"><br>
